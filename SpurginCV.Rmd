@@ -1,0 +1,147 @@
+---
+header-includes:
+   \usepackage{etaremune}
+output: pdf_document
+
+---
+\begin{center}
+\begin{huge}
+
+\textbf{Lewis G. Spurgin}
+
+\end{huge}
+\end{center}
+
+---
+
+\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47TJ, United Kingdom}
+
+
+\begin{center}
+
+\textbf{Tel:} +44 (0)1603 59 2947, \textbf{Email:} L.Spurgin@uea.ac.uk, \textbf{Web:} lewisspurgin.wordpress.com
+
+\end{center}
+
+---
+
+##Education and career
+- 2016 - 2019:	BBSRC Future Leader Fellow ‘The genomics of thermal adaptation in a model pest insect’ Biological Sciences, University of East Anglia
+- 2015 - 2016:	EGI research fellow ‘Avian behaviour, ecology and evolution’ Edward Grey Institute, University of Oxford
+- 2012 - 2014:	NWO Rubicon research fellow ‘Genomic approaches to conserving genetic diversity in translocated populations’ Behavioural Ecology and Self-organization, University of Groningen
+- 2008 - 2012:	PhD ‘Adaptation and differentiation in wild bird populations’ Biological Sciences, University of East Anglia
+- 2005 - 2008:	BSc (Hons) Ecology (First Class) Biological Sciences, University of East Anglia
+
+##Awards and prizes
+- 2013	The Christer Hemborg Lecture, Uppsala University (biannual award and lecture given by a young evolutionary biologist)
+- 2012	‘Company of Biologists Award’ for best PhD thesis University of East Anglia
+- 2010	Most cited paper of 2010, Proceedings of the Royal Society B
+- 2008	‘Michael Graham Prize’ for best performance in an Ecology degree, University of East Anglia
+
+##Research grants
+- 2016	NRP Science links seed corn funding ‘RNAi and pest control: an experimental investigation into the evolution of resistance and effects on non- target species’ (£14,931)
+- 2016	BBSRC Future Leader Fellowship ‘The genomics of thermal adaptation in a model pest insect’ (£299,075)
+- 2015	Edward Grey Institute Research Fellowship ‘The genomics of adaptation in wild birds and laboratory beetles’ (~£80,000)
+- 2014	British Ecological Society large research grant ‘Genomic consequences of selection, drift and founder effects in island pipit populations’ (£15,300)
+- 2013	British Ecological Society parliamentary shadowing scheme fellowship (£1,000)
+- 2012	Netherlands Organisation for Scientific Research (NWO) Rubicon fellowship ‘Genomic approaches to conserving genetic diversity in translocated populations’ (£78,000)
+
+##Peer-reviewed publications
+
+###Published and accepted manuscripts
+
+\begin{etaremune}
+
+\item	McDonald, G.C.,\textbf{Spurgin, L.G.} , Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution (In Press)
+
+\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders. Journal of Evolutionary Biology (In Press)
+
+\item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2016) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology doi: 10.1093/beheco/arw167
+
+\item Gonzalez-Quevedo, C., Davies R.G., Phillips, K.P., \textbf{Spurgin, L.G.}, Richardson, D.S. (2016) Landscape scale variation in an anthropogenic factor shapes immune gene variation within a wild population. Molecular Ecology 25, 4234-4246
+
+\item	Bebbington, K., \textbf{Spurgin, L.G.}, Fairfield, E.A., Dugdale, H., Komdeur, J., Burke, T., Richardson, D.S. (2016) Telomere length reveals cumulative individual and transgenerational inbreeding effects in a passerine bird Molecular Ecology, 25, 2949-2960
+
+\item	Illera, J.C., \textbf{Spurgin, L.G.}, Rodriguez-Exposito, E., Nogales, M., Rando, J.C. (2016) What are we learning about speciation and extinction from the Canary Islands? Ardeola, 63, 5-23
+
+\item	Gonzalez-Quevedo, C., \textbf{Spurgin, L.G.}, Illera, J.C., Richardson, D.S. (2015) Drift, not selection, shapes toll-like receptor variation among oceanic island populations. Molecular Ecology 24, 5852-5863
+
+\item	Hammers, M. Kingma, S.A., Bebbington, K. van de Crommenacker, J., \textbf{Spurgin, L.G.}, Richardson, D.S., Burke, T. Hugdale, H.L., Komdeur, J. (2015) Senescence in the wild: insights from a long-term study on Seychelles warblers. Experimental Gerontology 71, 69-79
+
+\item	Lumley, A.J., Michalczyk, L., Kitson, J.J.N., \textbf{Spurgin, L.G.}, Morrison, C.A., Godwin, J.L., Dickinson, M.E., Martin, O.Y., Emerson, B.C., Chapman T.C., Gage, M.J.G. (2015) Sexual selection protects against extinction. Nature 522, 470-473
+
+\item	Gonzalez-Quevedo, C., Phillips, K.P., \textbf{Spurgin, L.G.}, Richardson, D.S. (2015) 454 screening of individual MHC variation in an endemic island passerine. Immunogenetics 67, 149-162
+
+\item	Padilla, D.P.*, \textbf{Spurgin, L.G.*}, Fairfield, E., Illera, J.C., Richardson, D.S. (2015) Population history, gene flow and bottlenecks in island populations of a secondary seed disperser, the southern grey shrike (Lanius meridionalis koenigi). Ecology and Evolution 5, 36-45 (*joint first authors)
+
+\item	\textbf{Spurgin, L.G.}, Wright, D.J., van der Velde, M., Collar, N.J., Komdeur, J., Burke, T.A., Richardson, D.S. (2014) Museum DNA reveals the demographic history of the endangered Seychelles warbler. Evolutionary Applications 7, 1134-1143
+
+\item	Wright, D.J., \textbf{Spurgin, L.G.}, Collar, N.J., Komdeur, J., Burke, T.A.,Richardson, D.S. (2014) The impact of translocations on neutral and functional genetic diversity within and among populations of the Seychelles warbler. Molecular Ecology, 23, 2165-2177
+
+\item	\textbf{Spurgin, L.G.}, Illera, J.C., Dawson, D.A., Jorgensen, T.H., Richardson, D.S. (2014) Genetic and phenotypic divergence in an island pipit: isolation by distance, by colonisation or by adaptation? Molecular Ecology 23, 1028-1039
+
+\item	\textbf{Spurgin, L.G.} (2013) Does promiscuity explain differences in levels of genetic diversity across passerine birds? Evolution 67, 3071-3072
+
+\item	Dawson, D.A., Ball, A.D., \textbf{Spurgin, L.G.}, Martin-Galvez, D., Stewart, I.R.K., Horsburgh, G.J., Potter, J.D., Molina-Morales, M., Bicknell, A.W.J., Hodges, S., Ekblom, R., Slate, J., Burke, T.A. (2013) High-utility conserved avian microsatellite markers enable parentage and population studies across a wide range of species. BMC Genomics, 14, 176
+
+\item	\textbf{Spurgin, L.G.}, Illera, J.C., Padilla, D.P., Richardson, D.S. (2012) Biogeographic patterns and co-occurrence of pathogenic infection across island populations of Berthelot’s pipit (Anthus berthelotii). Oecologia, 168, 691-701
+
+\item	Dawson, D.A., Horsburgh, G.J., Krupa, A.P., Stewart, I.R.K., Skjelseth, S., Jensen, H., Ball, A.D., \textbf{Spurgin, L.G.}, Burke, T.A. (2012) A predicted microsatellite map of the house sparrow Molecular Ecology Resources 12, 501-523
+
+\item	\textbf{Spurgin, L.G.}, van Oosterhout, C., Illera, J.C., Bridgett, S., Gharbi, K., Emerson, B.C., Richardson, D.S. (2011) Gene conversion rapidly generates MHC diversity in recently founded bird populations. Molecular Ecology, 20, 5213-5225
+
+\item	\textbf{Spurgin, L.G.}, Richardson, D.S. (2010) How pathogens drive genetic diversity: MHC, mechanisms and misunderstandings. Proceedings of the Royal Society B, Biological Sciences 277, 979-988
+
+\item	Worley K., Collet J., \textbf{Spurgin, L.G.}, Cornwallis C., Pizzari T., Richardson D.S. (2010) MHC heterozygosity and survival in red junglefowl. Molecular Ecology, 19, 3064-3075
+
+\item	Dawson, D.A., Horsburgh, G.J., Kupper, C., Stewart, I.R.K., Ball, A.D., Durrant, K.L., Hansson, B., Bacon, I., Bird,S., Klein, A., Krupa, A.P., Lee, J.W., Martin-Galvez, D., Simeoni, M., Smith, G., \textbf{Spurgin, L.G.}, Burke, T.A. (2010) New methods to identify conserved microsatellite loci and develop primer sets of high cross-species utility as demonstrated for birds. Molecular Ecology Resources 10, 475-494  
+
+\end{etaremune}
+
+
+
+###Submitted manuscripts
+
+\begin{etaremune}
+
+\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. The footprint of natural selection on genetics, morphology and behaviour in a wild bird. In review at Science (*joint first authors)
+
+\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population. In review at American Naturalist
+
+\end{etaremune}
+
+
+##Invited seminars
+- 2016	 ‘The great tit HapMap project: population structure and adaptation in a model passerine’ Adam Mickiewicz University, Poland
+- 2014	‘Altruism, infidelity and telomeres’ Diversity in Telomere Dynamics Workshop, Drymen, Scotland
+- 2013	 ‘Adaptation and differentiation in island pipit populations’ Aarhus University, Denmark
+- 2013	‘Museum DNA and the conservation of endangered species’ Natural History Museum, London
+- 2011	 ‘Gene conversion, natural selection and MHC diversity in Berthelot’s pipit’ Island Ecology and Evolution Research Group, Tenerife, Spain
+	
+##Reviewing
+- Peer review college member, British Ecological Society (2015-present)
+- Grant reviewer for BBSRC, Ontario Research Fund, Royal Society of New Zealand, Czech Science Foundation
+- Top reviewer’ for Molecular Ecology
+- Reviewer of ca 20 articles per year, including the following journals: Nature Communications, Proceedings of the Royal Society B, Evolution, Molecular Ecology, Molecular Biology and Evolution, Heredity, Journal of Evolutionary Biology, Biology Letters, BMC Evolutionary Biology, Journal of Biogeography, PLoS One, Evolutionary Applications, Behavioural Ecology and Sociobiology, Biological Conservation, Ecology and Evolution, Conservation Genetics, Immunogenetics, Journal of Avian Biology
+
+##PhD supervision
+- 2016-2019:	Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia, primary supervisor)
+- 2014-2018: 	Armstrong, C. Evolving with pathogens: how pathogens drive genetic diversity over space and time in an island bird (PhD, University of East Anglia, secondary supervisor)
+- 2013-2017:	Bebbington, K. Telomere dynamics in the Seychelles warbler (PhD, University of East Anglia, secondary supervisor)
+- 2010-2014:	Gonzales-Quevedo, C. The scale of pathogen-mediated selection: a case study on Berthelot’s pipit on Tenerife (PhD, University of East Anglia, secondary supervisor)
+- 2010-2014:	Wright, D.J. Evolutionary and conservation genetics in the Seychelles warbler - MHC diversity (PhD, University of East Anglia, supervisory team member) 
+
+##Teaching
+- 2016-2018:	MA in Higher Education Practise, University of East Anglia. 
+- 2017-:		Invited instructor ‘Introductory population genomics’ – Physalia Courses, Berlin 
+- 2016-:		Data Carpentry and Software Carpentry instructor
+- 2008-:	Lectures, seminars, lab sessions given in following modules: Field Ecology, Behavioural Ecology, Evolutionary Biology, Biodiversity, Conservation Genetics, Host-Pathogen Coevolution, Population and Community Ecology, Environmental Biology
+
+##Professional membership
+British Ecological Society, European Society for Evolutionary Biology, Genetics Society, Society for Molecular Biology and Evolution
+
+##Popular science articles
+- Spurgin, L.G. (2013) The role of chance in evolution. Aeon Magazine (online only – link here)
+- Spurgin, L.G. (2013) Science and the English Language – lessons from George Orwell. London School of Economics Impact of Social Sciences Blog (online only – link here)
+
+
