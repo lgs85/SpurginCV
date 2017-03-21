@@ -16,10 +16,11 @@ linkcolor: blue
 
 ---
 
-\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47TJ, United Kingdom}
 
 
 \begin{center}
+
+\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47TJ, United Kingdom}
 
 \textbf{Tel:} +44 (0)1603 59 2947, \textbf{Email:} L.Spurgin@uea.ac.uk, \textbf{Web:} lewisspurgin.wordpress.com
 
