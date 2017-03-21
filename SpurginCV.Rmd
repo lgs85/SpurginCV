@@ -105,11 +105,11 @@ output: pdf_document
 
 \begin{etaremune}
 
-\item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. In review at Journal of Animal Ecology
+\item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study.
 
-\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. The footprint of natural selection on genetics, morphology and behaviour in a wild bird. In review at Science (*joint first authors)
+\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. The footprint of natural selection on genetics, morphology and behaviour in a wild bird.(*joint first authors)
 
-\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population. In review at American Naturalist
+\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population.
 
 \end{etaremune}
 
