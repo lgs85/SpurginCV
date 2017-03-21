@@ -26,6 +26,7 @@ output: pdf_document
 ---
 
 ##Education and career
+
 - 2016 - 2019:	BBSRC Future Leader Fellow ‘The genomics of thermal adaptation in a model pest insect’ Biological Sciences, University of East Anglia
 - 2015 - 2016:	EGI research fellow ‘Avian behaviour, ecology and evolution’ Edward Grey Institute, University of Oxford
 - 2012 - 2014:	NWO Rubicon research fellow ‘Genomic approaches to conserving genetic diversity in translocated populations’ Behavioural Ecology and Self-organization, University of Groningen
