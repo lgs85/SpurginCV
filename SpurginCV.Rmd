@@ -1,32 +1,25 @@
 ---
 header-includes:
    \usepackage{etaremune}
+  \usepackage{fancyhdr}
+  \pagestyle{fancy}
+  \fancyhead[C]{}
 output: 
   pdf_document
 linkcolor: blue
-
----
-\begin{center}
-\begin{huge}
-
-\textbf{Lewis G. Spurgin}
-
-\end{huge}
-\end{center}
-
 ---
 
+#Lewis G. Spurgin
 
 
-\begin{center}
 
-x\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47TJ, United Kingdom}
+\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47TJ, United Kingdom}
 
-\textbf{Tel:} +44 (0)1603 59 2947, \textbf{Email:} L.Spurgin@uea.ac.uk, \textbf{Web:} lewisspurgin.wordpress.com
+\textbf{Tel:} +44 (0)1603 59 2947  
+\textbf{Email:} L.Spurgin@uea.ac.uk  
+\textbf{Web:} https://lewisspurgin.wordpress.com
 
-\end{center}
-
----
+\rule{1\linewidth}{\linethickness}
 
 ##Education and career
 
@@ -47,7 +40,6 @@ x\textit{School of Biological Sciences, University of East Anglia, Norwich, NR47
 - 2016	BBSRC Future Leader Fellowship ‘The genomics of thermal adaptation in a model pest insect’ (£299,075)
 - 2015	Edward Grey Institute Research Fellowship ‘The genomics of adaptation in wild birds and laboratory beetles’ (~£80,000)
 - 2014	British Ecological Society large research grant ‘Genomic consequences of selection, drift and founder effects in island pipit populations’ (£15,300)
-- 2013	British Ecological Society parliamentary shadowing scheme fellowship (£1,000)
 - 2012	Netherlands Organisation for Scientific Research (NWO) Rubicon fellowship ‘Genomic approaches to conserving genetic diversity in translocated populations’ (£78,000)
 
 ##Peer-reviewed publications
