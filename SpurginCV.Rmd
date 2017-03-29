@@ -48,9 +48,7 @@ linkcolor: blue
 
 \begin{etaremune}
 
-\item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, (In Press)
-
-\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders. Journal of Evolutionary Biology, (In Press)
+\item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, doi: 10.1111/evo.13242
 
 \item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2016) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, doi: 10.1093/beheco/arw167
 
@@ -107,6 +105,9 @@ linkcolor: blue
 \item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population.
 
 \item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, and Richardson, D.S. Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors
+
+\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders.
+
 
 \end{etaremune}
 
