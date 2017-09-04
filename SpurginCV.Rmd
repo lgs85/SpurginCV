@@ -50,6 +50,8 @@ linkcolor: blue
 
 \item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2017) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, In Press
 
+\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, In Press
+
 \item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
 
 \item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2016) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, 28, 407-418
@@ -100,15 +102,16 @@ linkcolor: blue
 
 \begin{etaremune}
 
-\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. The footprint of natural selection on genetics, morphology and behaviour in a wild bird (*joint first authors).
+\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. Recent natural selection causes adaptive evolution of an avian polygenic trait (*joint first authors)
 
 \item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} Genomic associations with bill length and disease reveal adaptation across island bird populations
 
-\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population.
+\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population
 
-\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, and Richardson, D.S. Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors
+\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors
 
-\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders.
+\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton
+
 
 
 \end{etaremune}
@@ -123,7 +126,7 @@ linkcolor: blue
 	
 ##Reviewing
 - Peer review college member, British Ecological Society (2015-present)
-- Grant reviewer for BBSRC (UK), Ontario Research Fund (Canada), Marsden Fund (New Zealand), Czech Science Foundation (Czech Republic)
+- Grant reviewer for BBSRC (UK), Leverhulme Trust (UK), Ontario Research Fund (Canada), Marsden Fund (New Zealand), Czech Science Foundation (Czech Republic)
 - Reviewer of ca 20 articles per year, including the following journals: Nature Communications, Proceedings of the Royal Society B, Evolution, Molecular Ecology, Molecular Biology and Evolution, Heredity, Journal of Evolutionary Biology, Biology Letters, BMC Evolutionary Biology, Journal of Biogeography, PLoS One, Evolutionary Applications, Behavioural Ecology and Sociobiology, Biological Conservation, Ecology and Evolution, Conservation Genetics, Immunogenetics, Journal of Avian Biology
 
 ##PhD supervision
