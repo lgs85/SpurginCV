@@ -50,6 +50,8 @@ linkcolor: blue
 
 \item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2017) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, In Press
 
+\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. (2017) Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors. Proceedings of the National Academy of Sciences, In Press
+
 \item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, In Press
 
 \item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
@@ -107,8 +109,6 @@ linkcolor: blue
 \item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} Genomic associations with bill length and disease reveal adaptation across island bird populations
 
 \item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population
-
-\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors
 
 \item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton
 
