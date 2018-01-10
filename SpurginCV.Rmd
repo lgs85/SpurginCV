@@ -48,13 +48,17 @@ linkcolor: blue
 
 \begin{etaremune}
 
+\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, In Press
+
+\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. (2018) DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton, Nature Microbiology, In Press
+
+\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2018) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, In Press
+
+\item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2018) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, 87,187-198
+
+\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. (2017) Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors. Proceedings of the National Academy of Sciences, 114, E9036-E9045
+
 \item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. (2017) Recent natural selection causes adaptive evolution of an avian polygenic trait. Science, 358, 365-368 (*joint first authors)
-
-\item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2017) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, In Press
-
-\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. (2017) Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors. Proceedings of the National Academy of Sciences, In Press
-
-\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2017) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, In Press
 
 \item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
 
@@ -100,24 +104,10 @@ linkcolor: blue
 
 \end{etaremune}
 
-\medskip
-
-***Submitted manuscripts***
-
-\begin{etaremune}
-
-\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} Genomic associations with bill length and disease reveal adaptation across island bird populations
-
-\item	Tan, C.K.W., Doyle, P., Burrell, S., Bagshaw, E., Wigby, S., Fairfield, E.A., \textbf{Spurgin, L.G.}, Richardson, D.S., Pizzari, T. Dissecting the influence of inbreeding, parental age and post-insemination sperm age on fitness-related traits in a bird population
-
-\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton
-
-
-
-\end{etaremune}
-
 
 ##Invited seminars
+- 2018 'Rapid adaptation in a songbird' University of Bristol, UK
+- 2017 'Rapid adaptation in a songbird' University of Exeter, UK
 - 2016	 ‘The great tit HapMap project: population structure and adaptation in a model passerine’ Adam Mickiewicz University, Poland
 - 2014	‘Altruism, infidelity and telomeres’ Diversity in Telomere Dynamics Workshop, Drymen, Scotland
 - 2013	 ‘Adaptation and differentiation in island pipit populations’ Aarhus University, Denmark
@@ -130,6 +120,7 @@ linkcolor: blue
 - Reviewer of ca 20 articles per year, including the following journals: Ecology Letters, Nature Communications, Proceedings of the Royal Society B, Evolution, Molecular Ecology, Molecular Biology and Evolution, Heredity, Journal of Evolutionary Biology, Biology Letters, BMC Evolutionary Biology, Journal of Biogeography, PLoS One, Conservation Biology, Evolutionary Applications, Behavioural Ecology and Sociobiology, Biological Conservation, Ecology and Evolution, Conservation Genetics, Immunogenetics, Journal of Avian Biology, Ibis
 
 ##PhD supervision
+- 2017-2021: Hillman, S. Population genetics and ecology of the sugar beet leaf miner (PhD, University of East Anglia, primary supervisor) 
 - 2017-2021: Martin, C. Genomic signatures of adaptation in an island bird (PhD, University of East Anglia, primary supervisor)
 - 2016-2019:	Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia, primary supervisor)
 - 2014-2018: 	Armstrong, C. Evolving with pathogens: how pathogens drive genetic diversity over space and time in an island bird (PhD, University of East Anglia, secondary supervisor)
