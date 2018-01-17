@@ -62,7 +62,7 @@ linkcolor: blue
 
 \item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
 
-\item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2016) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, 28, 407-418
+\item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2017) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, 28, 407-418
 
 \item Gonzalez-Quevedo, C., Davies R.G., Phillips, K.P., \textbf{Spurgin, L.G.}, Richardson, D.S. (2016) Landscape scale variation in an anthropogenic factor shapes immune gene variation within a wild population. Molecular Ecology, 25, 4234-4246
 
