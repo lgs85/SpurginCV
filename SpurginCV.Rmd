@@ -39,20 +39,19 @@ linkcolor: blue
 - 2016	NRP Science links seed corn funding ‘RNAi and pest control: an experimental investigation into the evolution of resistance and effects on non- target species’ (£14,931)
 - 2016	BBSRC Future Leader Fellowship ‘The genomics of thermal adaptation in a model pest insect’ (£299,075)
 - 2015	Edward Grey Institute Research Fellowship ‘The genomics of adaptation in wild birds and laboratory beetles’ (~£80,000)
-- 2014	British Ecological Society large research grant ‘Genomic consequences of selection, drift and founder effects in island pipit populations’ (£15,300)
+- 2014	British Ecological Society large research grant ‘Genomic consequences of selection, drift and founder effects in island  populations’ (£15,300)
 - 2012	Netherlands Organisation for Scientific Research (NWO) Rubicon fellowship ‘Genomic approaches to conserving genetic diversity in translocated populations’ (£78,000)
 
-##Peer-reviewed publications
-
-***Published and accepted manuscripts***
+##Publications 
+*1093 citations, h-index = 14 (Google Scholar, April 2018)*
 
 \begin{etaremune}
 
-\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, In Press
+\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, 2, 22-36
 
-\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. (2018) DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton, Nature Microbiology, In Press
+\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. (2018) DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton, Nature Microbiology, 3, 430
 
-\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2018) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, In Press
+\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2018) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, 29, 169-178
 
 \item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2018) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, 87,187-198
 
@@ -106,8 +105,8 @@ linkcolor: blue
 
 
 ##Invited seminars
-- 2018 'Rapid adaptation in a songbird' University of Bristol, UK
-- 2017 'Rapid adaptation in a songbird' University of Exeter, UK
+- 2018 'Rapid adaptation in a wild population ' University of Bristol, UK
+- 2017 'Rapid adaptation in a wild population' University of Exeter, UK
 - 2016	 ‘The great tit HapMap project: population structure and adaptation in a model passerine’ Adam Mickiewicz University, Poland
 - 2014	‘Altruism, infidelity and telomeres’ Diversity in Telomere Dynamics Workshop, Drymen, Scotland
 - 2013	 ‘Adaptation and differentiation in island pipit populations’ Aarhus University, Denmark
@@ -133,6 +132,10 @@ linkcolor: blue
 - 2017-:		Invited instructor ‘Introductory population genomics’ – Physalia Courses, Berlin 
 - 2016-:		Data Carpentry and Software Carpentry instructor
 - 2008-:	Lectures, seminars, lab sessions given in following modules: Field Ecology, Behavioural Ecology, Evolutionary Biology, Biodiversity, Conservation Genetics, Host-Pathogen Coevolution, Population and Community Ecology, Environmental Biology
+
+##Administrative duties
+- 2017-:  Communications officer, Biological Sciences, University of East Anglia
+- 2017-: Entomology Facility Steering Committee Member, John Innes Centre
 
 ##Professional membership
 British Ecological Society, European Society for Evolutionary Biology, Genetics Society, Society for Molecular Biology and Evolution
