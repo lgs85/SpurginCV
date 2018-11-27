@@ -47,7 +47,9 @@ linkcolor: blue
 
 \begin{etaremune}
 
-\item Godwin, J.L., Spurgin, L.G., Michalczyk, L., Martin, O.Y., Lumley, A.J., Chapman T.C., Gage, M.J.G. (2018) Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations. Evolution Letters, In Press
+\item Spurgin, L.G., Chapman, T. (2018) Finches choose parent lookalikes as mates. Nature (News and Views), In Press
+
+\item Godwin, J.L., Spurgin, L.G., Michalczyk, L., Martin, O.Y., Lumley, A.J., Chapman T.C., Gage, M.J.G. (2018) Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations. Evolution Letters, 2, 511-523
 
 \item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., Spurgin, L.G. (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, 2, 22-36
 
