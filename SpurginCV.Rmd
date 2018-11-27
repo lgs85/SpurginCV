@@ -47,61 +47,61 @@ linkcolor: blue
 
 \begin{etaremune}
 
-\item Godwin, J.L., \textbf{Spurgin, L.G.}, Michalczyk, L., Martin, O.Y., Lumley, A.J., Chapman T.C., Gage, M.J.G. (2018) Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations. Evolution Letters, In Press
+\item Godwin, J.L., Spurgin, L.G., Michalczyk, L., Martin, O.Y., Lumley, A.J., Chapman T.C., Gage, M.J.G. (2018) Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations. Evolution Letters, In Press
 
-\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., \textbf{Spurgin, L.G.} (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, 2, 22-36
+\item	Armstrong, C., Richardson, D.S., Hipperson, H.,Horsburgh, G.J., Kupper, C.,Percival-Alwyn, L., Clark, M., Burke, T., Spurgin, L.G. (2018) Genomic associations with bill length and disease reveal drift and adaptation across island bird populations. Evolution Letters, 2, 22-36
 
-\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., \textbf{Spurgin, L.G.}, Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. (2018) DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton, Nature Microbiology, 3, 430
+\item Curson, A.R.J., Williams, B.T., Pinchbeck, B.J., Sims, L.P., Martínez, A.B., Rivera, P.P.L., Kumaresan, D., Mercadé, E., Spurgin, L.G., Carrión, O., Moxon, S., Cattolico, R., Todd, J.D. (2018) DSYB catalyses the key step of dimethylsulfoniopropionate biosynthesis in many phytoplankton, Nature Microbiology, 3, 430
 
-\item Bebbington, K., Fairfield, E.A., \textbf{Spurgin, L.G.}, Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2018) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, 29, 169-178
+\item Bebbington, K., Fairfield, E.A., Spurgin, L.G., Kingma, S.A., Dugdale, H.L., Komdeur, J., Richardson, D.S. (2018) Joint care can outweigh costs of non-kin competition in communal breeders. Behavioural Ecology, 29, 169-178
 
-\item \textbf{Spurgin, L.G.}, Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2018) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, 87,187-198
+\item Spurgin, L.G., Bebbington, K. Fairfield, E.A., Hammers, M., Komdeur, J., Burke, T., Dugdale, H.L., Richardson, D.S. (2018) Spatio-temporal variation in lifelong telomere dynamics in a long-term ecological study. Journal of Animal Ecology, 87,187-198
 
-\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., \textbf{Spurgin, L.G.}, Richardson, D.S. (2017) Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors. Proceedings of the National Academy of Sciences, 114, E9036-E9045
+\item Bebbington, K., Kingma, S.A., Fairfield, S.A., Dugdale, H.L., Komdeur, J., Spurgin, L.G., Richardson, D.S. (2017) Kinship and familiarity mitigate costs of social conflict between Seychelles warbler neighbors. Proceedings of the National Academy of Sciences, 114, E9036-E9045
 
-\item	Bosse, M*. \textbf{Spurgin, L.G.*}, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. (2017) Recent natural selection causes adaptive evolution of an avian polygenic trait. Science, 358, 365-368 (*joint first authors)
+\item	Bosse, M.*, Spurgin, L.G.*, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. (2017) Recent natural selection causes adaptive evolution of an avian polygenic trait. Science, 358, 365-368 (*joint first authors)
 
-\item	McDonald, G.C.,\textbf{Spurgin, L.G.}, Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
+\item	McDonald, G.C.,Spurgin, L.G., Fairfield, E.A., Richardson, D.S., Pizzari, T. (2017) Pre- and postcopulatory sexual selection favour aggressive, young males in polyandrous groups of red junglefowl. Evolution, 71, 1653-1669
 
-\item Bebbington, K., Kingma, S.A., Fairfield, E.A., \textbf{Spurgin, L.G.}, Komdeur, J., Richardson, D.S. (2017) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, 28, 407-418
+\item Bebbington, K., Kingma, S.A., Fairfield, E.A., Spurgin, L.G., Komdeur, J., Richardson, D.S. (2017) Consequences of sibling rivalry vary across life in a passerine bird. Behavioural Ecology, 28, 407-418
 
-\item Gonzalez-Quevedo, C., Davies R.G., Phillips, K.P., \textbf{Spurgin, L.G.}, Richardson, D.S. (2016) Landscape scale variation in an anthropogenic factor shapes immune gene variation within a wild population. Molecular Ecology, 25, 4234-4246
+\item Gonzalez-Quevedo, C., Davies R.G., Phillips, K.P., Spurgin, L.G., Richardson, D.S. (2016) Landscape scale variation in an anthropogenic factor shapes immune gene variation within a wild population. Molecular Ecology, 25, 4234-4246
 
-\item	Bebbington, K., \textbf{Spurgin, L.G.}, Fairfield, E.A., Dugdale, H., Komdeur, J., Burke, T., Richardson, D.S. (2016) Telomere length reveals cumulative individual and transgenerational inbreeding effects in a passerine bird. Molecular Ecology, 25, 2949-2960
+\item	Bebbington, K., Spurgin, L.G., Fairfield, E.A., Dugdale, H., Komdeur, J., Burke, T., Richardson, D.S. (2016) Telomere length reveals cumulative individual and transgenerational inbreeding effects in a passerine bird. Molecular Ecology, 25, 2949-2960
 
-\item	Illera, J.C., \textbf{Spurgin, L.G.}, Rodriguez-Exposito, E., Nogales, M., Rando, J.C. (2016) What are we learning about speciation and extinction from the Canary Islands? Ardeola, 63, 5-23
+\item	Illera, J.C., Spurgin, L.G., Rodriguez-Exposito, E., Nogales, M., Rando, J.C. (2016) What are we learning about speciation and extinction from the Canary Islands? Ardeola, 63, 5-23
 
-\item	Gonzalez-Quevedo, C., \textbf{Spurgin, L.G.}, Illera, J.C., Richardson, D.S. (2015) Drift, not selection, shapes toll-like receptor variation among oceanic island populations. Molecular Ecology, 24, 5852-5863
+\item	Gonzalez-Quevedo, C., Spurgin, L.G., Illera, J.C., Richardson, D.S. (2015) Drift, not selection, shapes toll-like receptor variation among oceanic island populations. Molecular Ecology, 24, 5852-5863
 
-\item	Hammers, M. Kingma, S.A., Bebbington, K. van de Crommenacker, J., \textbf{Spurgin, L.G.}, Richardson, D.S., Burke, T. Hugdale, H.L., Komdeur, J. (2015) Senescence in the wild: insights from a long-term study on Seychelles warblers. Experimental Gerontology, 71, 69-79
+\item	Hammers, M. Kingma, S.A., Bebbington, K. van de Crommenacker, J., Spurgin, L.G., Richardson, D.S., Burke, T. Hugdale, H.L., Komdeur, J. (2015) Senescence in the wild: insights from a long-term study on Seychelles warblers. Experimental Gerontology, 71, 69-79
 
-\item	Lumley, A.J., Michalczyk, L., Kitson, J.J.N., \textbf{Spurgin, L.G.}, Morrison, C.A., Godwin, J.L., Dickinson, M.E., Martin, O.Y., Emerson, B.C., Chapman T.C., Gage, M.J.G. (2015) Sexual selection protects against extinction. Nature, 522, 470-473
+\item	Lumley, A.J., Michalczyk, L., Kitson, J.J.N., Spurgin, L.G., Morrison, C.A., Godwin, J.L., Dickinson, M.E., Martin, O.Y., Emerson, B.C., Chapman T.C., Gage, M.J.G. (2015) Sexual selection protects against extinction. Nature, 522, 470-473
 
-\item	Gonzalez-Quevedo, C., Phillips, K.P., \textbf{Spurgin, L.G.}, Richardson, D.S. (2015) 454 screening of individual MHC variation in an endemic island passerine. Immunogenetics, 67, 149-162
+\item	Gonzalez-Quevedo, C., Phillips, K.P., Spurgin, L.G., Richardson, D.S. (2015) 454 screening of individual MHC variation in an endemic island passerine. Immunogenetics, 67, 149-162
 
-\item	Padilla, D.P.*, \textbf{Spurgin, L.G.*}, Fairfield, E., Illera, J.C., Richardson, D.S. (2015) Population history, gene flow and bottlenecks in island populations of a secondary seed disperser, the southern grey shrike (Lanius meridionalis koenigi). Ecology and Evolution, 5, 36-45 (*joint first authors)
+\item	Padilla, D.P.*, Spurgin, L.G.*, Fairfield, E., Illera, J.C., Richardson, D.S. (2015) Population history, gene flow and bottlenecks in island populations of a secondary seed disperser, the southern grey shrike (Lanius meridionalis koenigi). Ecology and Evolution, 5, 36-45 (*joint first authors)
 
-\item	\textbf{Spurgin, L.G.}, Wright, D.J., van der Velde, M., Collar, N.J., Komdeur, J., Burke, T.A., Richardson, D.S. (2014) Museum DNA reveals the demographic history of the endangered Seychelles warbler. Evolutionary Applications, 7, 1134-1143
+\item	Spurgin, L.G., Wright, D.J., van der Velde, M., Collar, N.J., Komdeur, J., Burke, T.A., Richardson, D.S. (2014) Museum DNA reveals the demographic history of the endangered Seychelles warbler. Evolutionary Applications, 7, 1134-1143
 
-\item	Wright, D.J., \textbf{Spurgin, L.G.}, Collar, N.J., Komdeur, J., Burke, T.A.,Richardson, D.S. (2014) The impact of translocations on neutral and functional genetic diversity within and among populations of the Seychelles warbler. Molecular Ecology, 23, 2165-2177
+\item	Wright, D.J., Spurgin, L.G., Collar, N.J., Komdeur, J., Burke, T.A.,Richardson, D.S. (2014) The impact of translocations on neutral and functional genetic diversity within and among populations of the Seychelles warbler. Molecular Ecology, 23, 2165-2177
 
-\item	\textbf{Spurgin, L.G.}, Illera, J.C., Dawson, D.A., Jorgensen, T.H., Richardson, D.S. (2014) Genetic and phenotypic divergence in an island pipit: isolation by distance, by colonisation or by adaptation? Molecular Ecology, 23, 1028-1039
+\item	Spurgin, L.G., Illera, J.C., Dawson, D.A., Jorgensen, T.H., Richardson, D.S. (2014) Genetic and phenotypic divergence in an island pipit: isolation by distance, by colonisation or by adaptation? Molecular Ecology, 23, 1028-1039
 
-\item	\textbf{Spurgin, L.G.} (2013) Does promiscuity explain differences in levels of genetic diversity across passerine birds? Evolution, 67, 3071-3072
+\item	Spurgin, L.G. (2013) Does promiscuity explain differences in levels of genetic diversity across passerine birds? Evolution, 67, 3071-3072
 
-\item	Dawson, D.A., Ball, A.D., \textbf{Spurgin, L.G.}, Martin-Galvez, D., Stewart, I.R.K., Horsburgh, G.J., Potter, J.D., Molina-Morales, M., Bicknell, A.W.J., Hodges, S., Ekblom, R., Slate, J., Burke, T.A. (2013) High-utility conserved avian microsatellite markers enable parentage and population studies across a wide range of species. BMC Genomics, 14, 176
+\item	Dawson, D.A., Ball, A.D., Spurgin, L.G., Martin-Galvez, D., Stewart, I.R.K., Horsburgh, G.J., Potter, J.D., Molina-Morales, M., Bicknell, A.W.J., Hodges, S., Ekblom, R., Slate, J., Burke, T.A. (2013) High-utility conserved avian microsatellite markers enable parentage and population studies across a wide range of species. BMC Genomics, 14, 176
 
-\item	\textbf{Spurgin, L.G.}, Illera, J.C., Padilla, D.P., Richardson, D.S. (2012) Biogeographic patterns and co-occurrence of pathogenic infection across island populations of Berthelot’s pipit (Anthus berthelotii). Oecologia, 168, 691-701
+\item	Spurgin, L.G., Illera, J.C., Padilla, D.P., Richardson, D.S. (2012) Biogeographic patterns and co-occurrence of pathogenic infection across island populations of Berthelot’s pipit (Anthus berthelotii). Oecologia, 168, 691-701
 
-\item	Dawson, D.A., Horsburgh, G.J., Krupa, A.P., Stewart, I.R.K., Skjelseth, S., Jensen, H., Ball, A.D., \textbf{Spurgin, L.G.}, Burke, T.A. (2012) A predicted microsatellite map of the house sparrow Molecular Ecology Resources, 12, 501-523
+\item	Dawson, D.A., Horsburgh, G.J., Krupa, A.P., Stewart, I.R.K., Skjelseth, S., Jensen, H., Ball, A.D., Spurgin, L.G., Burke, T.A. (2012) A predicted microsatellite map of the house sparrow Molecular Ecology Resources, 12, 501-523
 
-\item	\textbf{Spurgin, L.G.}, van Oosterhout, C., Illera, J.C., Bridgett, S., Gharbi, K., Emerson, B.C., Richardson, D.S. (2011) Gene conversion rapidly generates MHC diversity in recently founded bird populations. Molecular Ecology, 20, 5213-5225
+\item	Spurgin, L.G., van Oosterhout, C., Illera, J.C., Bridgett, S., Gharbi, K., Emerson, B.C., Richardson, D.S. (2011) Gene conversion rapidly generates MHC diversity in recently founded bird populations. Molecular Ecology, 20, 5213-5225
 
-\item	\textbf{Spurgin, L.G.}, Richardson, D.S. (2010) How pathogens drive genetic diversity: MHC, mechanisms and misunderstandings. Proceedings of the Royal Society B, Biological Sciences, 277, 979-988
+\item	Spurgin, L.G., Richardson, D.S. (2010) How pathogens drive genetic diversity: MHC, mechanisms and misunderstandings. Proceedings of the Royal Society B, Biological Sciences, 277, 979-988
 
-\item	Worley K., Collet J., \textbf{Spurgin, L.G.}, Cornwallis C., Pizzari T., Richardson D.S. (2010) MHC heterozygosity and survival in red junglefowl. Molecular Ecology, 19, 3064-3075
+\item	Worley K., Collet J., Spurgin, L.G., Cornwallis C., Pizzari T., Richardson D.S. (2010) MHC heterozygosity and survival in red junglefowl. Molecular Ecology, 19, 3064-3075
 
-\item	Dawson, D.A., Horsburgh, G.J., Kupper, C., Stewart, I.R.K., Ball, A.D., Durrant, K.L., Hansson, B., Bacon, I., Bird,S., Klein, A., Krupa, A.P., Lee, J.W., Martin-Galvez, D., Simeoni, M., Smith, G., \textbf{Spurgin, L.G.}, Burke, T.A. (2010) New methods to identify conserved microsatellite loci and develop primer sets of high cross-species utility as demonstrated for birds. Molecular Ecology Resources, 10, 475-494  
+\item	Dawson, D.A., Horsburgh, G.J., Kupper, C., Stewart, I.R.K., Ball, A.D., Durrant, K.L., Hansson, B., Bacon, I., Bird,S., Klein, A., Krupa, A.P., Lee, J.W., Martin-Galvez, D., Simeoni, M., Smith, G., Spurgin, L.G., Burke, T.A. (2010) New methods to identify conserved microsatellite loci and develop primer sets of high cross-species utility as demonstrated for birds. Molecular Ecology Resources, 10, 475-494  
 
 \end{etaremune}
 
