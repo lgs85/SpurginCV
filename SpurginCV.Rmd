@@ -43,11 +43,15 @@ linkcolor: blue
 - 2012	Netherlands Organisation for Scientific Research (NWO) Rubicon fellowship ‘Genomic approaches to conserving genetic diversity in translocated populations’ (£78,000)
 
 ##Publications 
-*1170 citations (Google Scholar, July 2018)*
+*1332 citations (Google Scholar, February 2019)*
 
 \begin{etaremune}
 
-\item Spurgin, L.G., Chapman, T. (2018) Finches choose parent lookalikes as mates. Nature (News and Views), In Press
+\item Spurgin L.G., Bosse M., Adriaensen F., Albayrak T., Barboutis C., Belda E., et al. (2019) The great tit HapMap project: a continental-scale analysis of genomic variation in a songbird. Preprint on bioRxiv. 561399. doi:10.1101/561399
+
+\item Hammers, M., Kingma, S.A., Spurgin, L.G., Bebbington, K., Dugdale, H.L., Burke, T., Komdeur, J., Richardson, D.S. (2019) Breeders that receive help age more slowly in a cooperatively breeding bird. Nature Communications, In Press
+
+\item Spurgin, L.G., Chapman, T. (2018) Finches choose parent lookalikes as mates. Nature (News and Views), 564, 196-197
 
 \item Godwin, J.L., Spurgin, L.G., Michalczyk, L., Martin, O.Y., Lumley, A.J., Chapman T.C., Gage, M.J.G. (2018) Lineages evolved under stronger sexual selection show superior ability to invade conspecific competitor populations. Evolution Letters, 2, 511-523
 
