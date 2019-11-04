@@ -43,9 +43,21 @@ linkcolor: blue
 - 2012	Netherlands Organisation for Scientific Research (NWO) Rubicon fellowship ‘Genomic approaches to conserving genetic diversity in translocated populations’ (£78,000)
 
 ##Publications 
-*1332 citations (Google Scholar, February 2019)*
+*1528 citations, h-index = 18 (Google Scholar, November 2019)*
 
 \begin{etaremune}
+
+\item Spurgin, L.G., Gage, M.J.G. (2019). Conservation: The Costs of Inbreeding and of Being Inbred. Current Biology, 29, R796-R798.
+
+\item McDonald, G.C., Spurgin, L.G., Fairfield, E.A., Richardson, D.S., Pizzari, T. (2019). Differential female sociality is linked with the fine-scale structure of sexual interactions in replicate groups of red junglefowl, Gallus gallus. Proceedings of the Royal Society B, 286, 20191734
+
+\item Da Silva, V.H., Laine, V.N., Bosse, M., Spurgin, L.G., Derks, M.F., Van Oers, K., Dibbits B., Slate J., Crooijmans R.P.M.A., Visser M.E., Groenen M.A.M., Groenen, M.A. (2019). The genomic complexity of a large inversion in great tits. Genome Biology and Evolution, In Press
+
+\item Armstrong, C., Davies, R.G., González‐Quevedo, C., Dunne, M., Spurgin, L.G., Richardson, D.S. (2019). Adaptive landscape genetics and malaria across divergent island bird populations. Ecology and Evolution, In Press
+
+\item Williams, B. T., Cowles, K., Martínez, A. B., Curson, A. R., Zheng, Y., Liu, J., Newton-Payne, S. Hind, A.J., Li, C., Rivera, P.P.L., Carrión, O., Liu, J., Spurgin, L.G., Brearley, C.A., Mackenzie, B.W., Pinchbeck, B.J., Peng, M., Pratscher, J., Zhang, X., Zhang, Y., Murrell, J.C. Todd, J.D. (2019). Bacteria are important dimethylsulfoniopropionate producers in coastal sediments. Nature microbiology, 4, 1815-1825
+
+\item	Bosse, M.*, Spurgin, L.G.*, Laine, V.N., Cole, E.F., Firth, J.A., Gienapp, P., Gosler, A.G., McMahon, K., Poissant, J., Verhagen, I., Groenen, M.A.M., van Oers, K., Sheldon, B.C., Visser, M.E., Slate, J. (2019). Response to Perrier and Charmantier: On the importance of time scales when studying adaptive evolution. Evolution Letters, 3, 248 (*joint first authors)
 
 \item Spurgin L.G., Bosse M., Adriaensen F., Albayrak T., Barboutis C., Belda E., et al. (2019) The great tit HapMap project: a continental-scale analysis of genomic variation in a songbird. Preprint on bioRxiv. 561399. doi:10.1101/561399
 
@@ -126,22 +138,22 @@ linkcolor: blue
 - Grant reviewer for BBSRC (UK), Leverhulme Trust (UK), Ontario Research Fund (Canada), Marsden Fund (New Zealand), Czech Science Foundation (Czech Republic)
 - Reviewer of ca 20 articles per year, including the following journals: Ecology Letters, Nature Communications, Proceedings of the Royal Society B, Evolution, Molecular Ecology, Molecular Biology and Evolution, Heredity, Journal of Evolutionary Biology, Biology Letters, BMC Evolutionary Biology, Journal of Biogeography, PLoS One, Conservation Biology, Evolutionary Applications, Behavioural Ecology and Sociobiology, Biological Conservation, Ecology and Evolution, Conservation Genetics, Immunogenetics, Journal of Avian Biology, Ibis
 
-##PhD supervision
-- 2017-2021: Hillman, S. Population genetics and ecology of the sugar beet leaf miner (PhD, University of East Anglia, primary supervisor) 
-- 2017-2021: Martin, C. Genomic signatures of adaptation in an island bird (PhD, University of East Anglia, primary supervisor)
-- 2016-2019:	Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia, primary supervisor)
-- 2014-2018: 	Armstrong, C. Evolving with pathogens: how pathogens drive genetic diversity over space and time in an island bird (PhD, University of East Anglia, secondary supervisor)
-- 2013-2017:	Bebbington, K. Telomere dynamics in the Seychelles warbler (PhD, University of East Anglia, secondary supervisor)
-- 2010-2014:	Gonzalez-Quevedo, C. The scale of pathogen-mediated selection: a case study on Berthelot’s pipit on Tenerife (PhD, University of East Anglia, secondary supervisor)
-- 2010-2014:	Wright, D.J. Evolutionary and conservation genetics in the Seychelles warbler - MHC diversity (PhD, University of East Anglia, supervisory team member) 
+##Primary PhD supervision
+- 2019-2023: Pointer, M. The evolutionary ecology of population establishment and spread (PhD, University of East Anglia) 
+- 2017-2021: Hillman, S. Population genetics and ecology of the sugar beet leaf miner (PhD, University of East Anglia) 
+- 2017-2021: Martin, C. Genomic signatures of adaptation in an island bird (PhD, University of East Anglia)
+- 2016-2019:	Lewis, R. Population demography and thermal adaptation in a model pest insect (PhD, University of East Anglia)
 
-##Teaching
-- 2016-2018:	MA in Higher Education Practise, University of East Anglia. 
+##Teaching and examination
+- 2018-: Organiser "statistics for biologists", University of East Anglia
+- 2018-: Internal PhD examiner, Biological Sciences, University of East Anglia
+- 2016-2018:	MA in Higher Education Practise, University of East Anglia
 - 2017-:		Invited instructor ‘Introductory population genomics’ – Physalia Courses, Berlin 
 - 2016-:		Data Carpentry and Software Carpentry instructor
 - 2008-:	Lectures, seminars, lab sessions given in following modules: Field Ecology, Behavioural Ecology, Evolutionary Biology, Biodiversity, Conservation Genetics, Host-Pathogen Coevolution, Population and Community Ecology, Environmental Biology
 
 ##Administrative duties
+- 2019-: Student Partnership Officer, Biological Sciences, University of East Anglia
 - 2017-:  Communications officer, Biological Sciences, University of East Anglia
 - 2017-: Entomology Facility Steering Committee Member, John Innes Centre
 
